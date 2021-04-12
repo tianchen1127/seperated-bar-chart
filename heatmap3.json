@@ -185,7 +185,46 @@
       {"name": "Top seasame official", "value": 7575137}
      ]
     },
-    {"name": "Legend", "value": 17010},
+    {
+     "name": "Legend",
+     "children": [
+     {"name": "Archangel Sword H5",	"value":67164366},
+     {"name": "Authorization of Mu",	"value":111299538},
+     {"name": "Legend of blue moon",	"value":19353037},
+     {"name": "Legend of Mir II",	"value":4828795},
+     {"name": "Legend of the ancient world",	"value":1526838},
+     {"name": "Legend of the past",	"value":1881685},
+     {"name": "Legendary mobile game", version "value":	10498774},
+     {"name": "Legendary World 3D",	"value":4862932},
+     {"name": "Lord of the City",	"value":140988360},
+     {"name": "Micro end Legend genuine Sand City abnormal PK legend hand tour",	"value":1277435},
+     {"name": "MU Awakening"	,"value":202018680},
+     {"name": "MU Miracle"	,"value":12815050},
+     {"name": "MU: Origin",	"value":7522824},
+     {"name": "Retro legend","value":4670814},
+     {"name": "Storm land",	"value":2441200},
+     {"name": "The dawn of dragon killing","value":3985893},
+     {"name": "The origin of mirage",	"value":2357981},
+     {"name": "The World of Legend",	"value":7184187},
+     {"name": "Win the Imperial City",	"value":1366758}
+     ]
+    },
+    {
+     "name": "Pure tone dance",
+     "children": [
+      {"name": "Audition Online", "value": 2791248},
+      {"name": "Momo Dancing", "value": 4532955},
+      {"name": "QQ Dancer", "value": 386021486}
+     ]
+    },
+    {
+     "name": "Race Game",
+     "children": [
+      {"name": "Asphaly 9 Legends", "value":1490708 },
+      {"name": "CrazyRacing KartRider", "value":186189018 },
+      {"name": "QQ speed", "value": 802403822}
+     ]
+    },
     {"name": "APRG", "value": 17010},
     {"name": "Traditional Anipop", "value": 17010},
     {
