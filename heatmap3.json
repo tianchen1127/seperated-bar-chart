@@ -449,7 +449,25 @@
       {"name": "White Cat Tennis", "value": 38877291}
      ]
     },
-    {"name": "Parallel", "value": 5176},
+   {
+     "name": "Idol Simulation",
+     "children":[
+      {"name": "A3!",	"value":	60971969},
+      {"name": "BanG Dream",	"value":	179004415},
+      {"name": "Ensemble Stars",	"value":	67669262},
+      {"name": "Hisaka 46 Unis on air",	"value":	10566646},
+      {"name": "IDOLiSH 7",	"value":	42279093},
+      {"name": "Love Live! School Idol Festival",	"value":	60826768},
+      {"name": "lovelive! School Idol Festival ALL STARS",	"value":	18400426},
+      {"name": "Nogizaka46 Rhythm Festival",	"value":	5721437},
+      {"name": "Revue Starlight Re LIVE",	"value":6536564},
+      {"name": "THE IDOLM@STER Million Live! Theater Days",	"value":	88563735},
+      {"name": "THE IDOLM@STER Shinycolors",	"value":	7826906},
+      {"name": "THE IDOLM@STER Starlight Stage",	"value":	204424816},
+      {"name": "The Idolmaster: SideM Live on St@ge!",	"value":	8087155},
+      {"name": "Utano Prince Sama Shining Live",	"value":	18819296}
+    ]
+   },
     {"name": "Pause", "value": 449},
     {"name": "Scheduler", "value": 5593},
     {"name": "Sequence", "value": 5534},
