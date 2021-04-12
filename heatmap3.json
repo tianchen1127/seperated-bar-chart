@@ -80,7 +80,21 @@
       {"name":"Novoland the Castle in the Sky", "value": 1189515}
      ]
     },
-    {"name": "SLG", "value":123213 },
+    {
+     "name": "Action Game",
+     "children": [
+      {"name": "CMM Champions Manager Mobasaka", "value": 5872021},
+      {"name": "eFootball PES 2020", "value": 52419591},
+      {"name": "Fever Basketball", "value": 3410677},
+      {"name": "FIFA ONLINE 3 M", "value": 1507755},
+      {"name": "FIFA Soccer", "value": 127011317},
+      {"name": "Mobasaka Ultimate Football Club", "value": 10582492},
+      {"name": "NBA LIVE Mobile", "value": 9380461},
+      {"name": "NBA Master", "value": 5210821},
+      {"name": "Slum Dunk", "value": 5647958},
+      {"name": "The best NBA", "value": 4993324}
+     ]
+    },
     {"name": "Turn-Based Card RPG", "value": 17010},
     {"name": "Race Game", "value": 17010},
     {"name": "Battle Royale game", "value": 17010},
