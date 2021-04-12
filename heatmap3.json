@@ -149,9 +149,40 @@
      ]
     },
     {
-     "name": "Turn-based MMORPG",
+     "name": "Fighting Game",
      "children": [
-      {"name": "AspectRatioBanker", "value": 7074}
+      {"name": "Allard's anger: Awakening", "value": 3692305},
+      {"name": "Battle Girl", "value": 2819190},
+      {"name": "Bleach: Memories of Nobody Fighting", "value": 6816607},
+      {"name": "Closers M", "value": 2268857},
+      {"name": "hunter", "value": 4611254},
+      {"name": "We Fight", "value": 2662366},
+      {"name": "JX 3", "value": 36861026},
+      {"name": "Natruto Mobile", "value": 271898595},
+      {"name": "Soul Warrior", "value": 1568311},
+      {"name": "The King of Fighters:Destiny", "value": 32102664},
+      {"name": "The undeground city pact", "value": 1314007},
+      {"name": "Ultra Fighters", "value": 1645352}
+     ]
+    },
+    {
+     "name": "FPS",
+     "children": [
+      {"name": "CrossFire", "value": 321277642},
+      {"name": "WeFire", "value": 3197557},
+     ]
+    },
+    {
+     "name": "imitating ancient palace intrigue",
+     "children": [
+      {"name": "Call Me Emperor", "value": 17784507},
+      {"name": "Flowers In Forbidden City", "value":22189775 },
+      {"name": "Hand tour of palace", "value": 58145709},
+      {"name": "If time could stop at the moment when we first met", "value":13099490 },
+      {"name": "Lengend of Xi Fei", "value": 22733629},
+      {"name": "Master Yipin", "value": 1229224},
+      {"name": "Royale Chaos", "value": 128898166},
+      {"name": "Top seasame official", "value": 7575137}
      ]
     },
     {"name": "Legend", "value": 17010},
