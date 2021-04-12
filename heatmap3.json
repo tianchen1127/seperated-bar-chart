@@ -120,7 +120,33 @@
       {"name": "The Soul of Hunter", "value": 12853685}
      ]
     },
-    {"name": "Battle Royale game", "value": 17010},
+     "name": "Asymmetric Battle Arena",
+     "children": [
+      {"name": "identity V", "value": 73864572}
+     ]
+    },
+    {
+     "name": "Auto Chess Game",
+     "children": [
+      {"name": "Auto Chess:Origin", "value": 1360381}
+     ]
+    },
+    {
+     "name": "Battle royale game",
+     "children": [
+      {"name": "Game For Peace", "value": 1666322},
+      {"name": "Knives Out", "value": 2497824078},
+      {"name": "Rules of Survival", "value": 21730562}
+     ]
+    },
+    {
+     "name": "Business Elimination",
+     "children": [
+      {"name": "Gardenscapes-New Acres", "value": 56694240},
+      {"name": "Homescapes", "value": 35247413},
+      {"name": "Zootopia Your Dream Diary", "value": 1245502}
+     ]
+    },
     {"name": "Legend", "value": 17010},
     {"name": "APRG", "value": 17010},
     {"name": "Traditional Anipop", "value": 17010},
