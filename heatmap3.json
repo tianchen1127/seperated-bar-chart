@@ -302,11 +302,26 @@
       {"name":"Wang Qihang","value":	13715455}
      ]
     },
-    {"name": "Traditional Anipop", "value": 17010},
-    {
+     {
      "name": "Turn-based MMORPG",
      "children": [
-      {"name": "AspectRatioBanker", "value": 7074}
+      {"name":"A journey to the West","value":	5101471},
+      {"name":"AskTao","value":	188725907},
+      {"name":"Cross Gate","value":	75903512},
+      {"name":"Fairy Tail Magic Guide","value":	45399354},
+      {"name":"Fantasy Westward Journey"	,"value":1638774036},
+      {"name":"Fantasy Zhu Xian","value":	69111109},
+      {"name":"Fox Spirit Matchmaker","value":	7170533},
+      {"name":"Legend of the Three Kingdoms","value":	9604217},
+      {"name":"Naruto OL","value":	88032354},
+      {"name":"Return of the Condor Heroes 2","value":	69343234},
+      {"name":"Shenwu 4","value":	294524321},
+      {"name":"Stone Age M","value":	55975291},
+      {"name":"The Croods","value":	35369970},
+      {"name":"Westward Journey Online","value":	615496082},
+      {"name":"Xuan-Yuan Sword Mobile","value":	8233164},
+     ]
+    },
      ]
     }
    ]
