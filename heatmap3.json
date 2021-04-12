@@ -425,7 +425,31 @@
       {"name":"Yu Yu Hakusho","value":	2030945}
      ]
     },
-    {"name": "ISchedulable", "value": 1041},
+    },
+    {
+     "name": "Pinball Game",
+     "children": [
+      {"name": "Kinnikuman Muscle shot", "value":1172964 },
+      {"name": "Line Bubble 2", "value":41253041 },
+      {"name": "Monster Strike", "value": 1031679059},
+      {"name": "World Flipper", "value": 7033997}
+     ]
+    },
+   {
+     "name": "Action Game",
+     "children": [
+      {"name": "Captain Tsubasa: Dream Team", "value":44301435 },
+      {"name": "eFootball PES 2020", "value":109280783 },
+      {"name": "Jikkyou Pawafuru Puroyakyu", "value": 213490052},
+      {"name": "Jikkyou Powerful Soccer", "value": 43552813},
+      {"name": "Mingol", "value": 5861595},
+      {"name": "PES CARD COLLECTION", "value": 31574735},
+      {"name": "PES Collection", "value": 19046346},
+      {"name": "Professional Baseball Spirits A", "value": 254774293},
+      {"name": "Sakatsuku Road to theWorld", "value": 24919389},
+      {"name": "White Cat Tennis", "value": 38877291}
+     ]
+    },
     {"name": "Parallel", "value": 5176},
     {"name": "Pause", "value": 449},
     {"name": "Scheduler", "value": 5593},
