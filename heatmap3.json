@@ -95,8 +95,31 @@
       {"name": "The best NBA", "value": 4993324}
      ]
     },
-    {"name": "Turn-Based Card RPG", "value": 17010},
-    {"name": "Race Game", "value": 17010},
+    {
+     "name": "AR+LBS",
+     "children": [
+      {"name": "Let's Hunt Monster", "value": 76266261}
+     ]
+    },
+    {
+     "name": "APRG",
+     "children": [
+      {"name": "Bleach: Memories of Nobody", "value": 9851191},
+      {"name": "City of Forever 7 Days", "value":5454376 },
+      {"name": "Dragon Nest", "value": 66036146},
+      {"name": "Fantasy project", "value":1823030 },
+      {"name": "Honkai Impact 3", "value":248798333 },
+      {"name": "Infinite Fighting", "value":2680682 },
+      {"name": "MARVEL Future Fight", "value":15792931 },
+      {"name": "Meteor, Butterfly, Sword", "value":13737877 },
+      {"name": "Punishing: Gray Raven", "value":11312705 },
+      {"name": "Rebellious King Arthur", "value":1698425 },
+      {"name": "Reincarnation formula", "value":3902043 },
+      {"name": "Samurai Spirits", "value": 90628331},
+      {"name": "The return of the great sage", "value":7449435 },
+      {"name": "The Soul of Hunter", "value": 12853685}
+     ]
+    },
     {"name": "Battle Royale game", "value": 17010},
     {"name": "Legend", "value": 17010},
     {"name": "APRG", "value": 17010},
