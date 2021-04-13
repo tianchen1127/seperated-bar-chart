@@ -475,6 +475,8 @@
     {"name": "Transitioner", "value": 19975},
     {"name": "TransitionEvent", "value": 1116},
     {"name": "Tween", "value": 6006}
+     ]
+    }
    ]
   },
   {
