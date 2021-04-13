@@ -594,9 +594,9 @@
       {"name":"FINAL FANTASY BRAVE EXVIUS","value":	18203038},
       {"name":"Junior Three Kingdoms","value":	3378914},
       {"name":"Looney Tunes World of Mayhem","value":	1296802},
-      {"name":"MARVEL Strike Force"value":	66719965},
-      {"name":"RAID: Shadow Legends","value":	30114987},
-      {"name":"Star Wars: Galaxy of Heroes","value":	91953814},
+      {"name":"MARVEL Strike Force", "value":	66719965},
+      {"name":"RAID Shadow Legends","value":	30114987},
+      {"name":"Star Wars Galaxy of Heroes","value":	91953814},
       {"name":"Summoners War","value":	75843340}
     ]
     },
