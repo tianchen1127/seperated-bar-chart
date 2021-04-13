@@ -485,7 +485,7 @@
       {"name":"Cashman Casino","value":	124887274},
       {"name":"DoubleDown Casino","value":	197504713},
       {"name":"DoubleU Casino","value":	101244951},
-      {"name":"Free Slots: Hot Vegas Slot Machines","value":	14667884},
+      {"name":"Free Slots Hot Vegas Slot Machines","value":	14667884},
       {"name":"Gold Fish Casino Slots","value":	58986426},
       {"name":"GSN Casino","value":	8924669},
       {"name":"Heart of Vegas","value":	131532501},
@@ -495,16 +495,18 @@
       {"name":"KONAMI Slots","value":	48385030},
       {"name":"Lightning Link Casino","value":	18360244},
       {"name":"myVEGAS Slots","value":	10858617},
-      {"name":"POP! Slots"	,"value":72440888},
+      {"name":"POP Slots"	,"value":72440888},
       {"name":"Quick Hit Slots by Dragonplay","value":	64061954},
       {"name":"Scatter Slots","value":	31817747},
       {"name":"Slotomania","value":	280159838},
       {"name":"Slots - House of Fun","value":	161829943},
       {"name":"Slots Casino Games by Huuuge","value":	97602241},
       {"name":"Wizard of Oz Slots Casino","value":	72713455}
-    ]
-    },
-   {
+      ]
+    }
+   ]
+  },
+  {
    "name": "Taiwan, China",
    "children": [
     {"name": "DirtySprite", "value": 8833},
