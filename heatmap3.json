@@ -478,26 +478,201 @@
    ]
   },
   {
-   "name": "U.S.A",
+   "name": "USA",
    "children": [
     {
-     "name": "converters",
-     "children": [
-      {"name": "Converters", "value": 721},
-      {"name": "DelimitedTextConverter", "value": 4294},
-      {"name": "GraphMLConverter", "value": 9800},
-      {"name": "IDataConverter", "value": 1314},
-      {"name": "JSONConverter", "value": 2220}
-     ]
+     "name": "Slot machine gambling",
+     "children": [ 
+      {"name":"Big Fish Casino","value":	152296946},
+      {"name":"Billionaire Casino","value":	46962096},
+      {"name":"Bingo Bash","value":	44781138},
+      {"name":"BINGO Blitz","value":	135739661},
+      {"name":"Caesars Slots","value":	71081821},
+      {"name":"Cash Frenzy","value":	22552113},
+      {"name":"Cashman Casino","value":	124887274},
+      {"name":"DoubleDown Casino","value":	197504713},
+      {"name":"DoubleU Casino","value":	101244951},
+      {"name":"Free Slots: Hot Vegas Slot Machines","value":	14667884},
+      {"name":"Gold Fish Casino Slots","value":	58986426},
+      {"name":"GSN Casino","value":	8924669},
+      {"name":"Heart of Vegas","value":	131532501},
+      {"name":"Hit it Rich","value":	60086472},
+      {"name":"Jackpot City Slots","value":	70190266},
+      {"name":"Jackpot Party Casino","value":	137086873},
+      {"name":"KONAMI Slots","value":	48385030},
+      {"name":"Lightning Link Casino","value":	18360244},
+      {"name":"myVEGAS Slots","value":	10858617},
+      {"name":"POP! Slots"	,"value":72440888},
+      {"name":"Quick Hit Slots by Dragonplay","value":	64061954},
+      {"name":"Scatter Slots","value":	31817747},
+      {"name":"Slotomania","value":	280159838},
+      {"name":"Slots - House of Fun","value":	161829943},
+      {"name":"Slots Casino Games by Huuuge","value":	97602241},
+      {"name":"Wizard of Oz Slots Casino","value":	72713455}
+    ]
     },
-    {"name": "DataField", "value": 1759},
-    {"name": "DataSchema", "value": 2165},
-    {"name": "DataSet", "value": 586},
-    {"name": "DataSource", "value": 3331},
-    {"name": "DataTable", "value": 772},
-    {"name": "DataUtil", "value": 3322}
-   ]
-  },
+    {
+     "name": "Traditional Anipop",
+     "children": [ 
+      {"name":"Candy Crush Friends Saga","value":	55443850},
+      {"name":"Candy Crush Jelly Saga","value":	33414932},
+      {"name":"Candy Crush Saga","value":	858435840},
+      {"name":"Candy Crush Soda Saga","value":	272101395},
+      {"name":"Clockmaker","value":	8895581},
+      {"name":"Cookie Jam","value":	64670040},
+      {"name":"Farm Heroes Saga","value":	49840810},
+      {"name":"Gummy Drop!","value":	19644696},
+      {"name":"Panda Pop","value":	22652514},
+      {"name":"Pet Rescue Saga","value":	21489046},
+      {"name":"The Wizard of Oz: Magic Match","value":	8971737},
+      {"name":"Toy Blast","value":	194709733}
+    ]
+    },
+    {
+     "name": "SLG",
+     "children": [
+      {"name":"Ark of War","value":	778942},
+      {"name":"Art of Conquest","value":	2518994},
+      {"name":"Battle Warship: Naval Empire","value":	1018868},
+      {"name":"Brutal Age: Horde Invasion","value":	6961853},
+      {"name":"Castle Clash","value":	5953501},
+      {"name":"Clash of Clans","value":	434201219},
+      {"name":"Clash of Kings","value":	41996086},
+      {"name":"Evony","value":	4651038},
+      {"name":"Final Fantasy XV: A New Empire","value":	142607296},
+      {"name":"Game of Thrones: Conquest","value":	170581922},
+      {"name":"Game of War - Fire Age","value":	7292760},
+      {"name":"Guns of Glory","value":	151107060},
+      {"name":"Invasion: Modern Empire","value":	1443047},
+      {"name":"King of Avalon: Dragon Warfare","value":	81025206},
+      {"name":"Last Shelter: Survival","value":	50346077},
+      {"name":"Lords Mobile","value":	99262635},
+      {"name":"Mafia City","value":	34088781},
+      {"name":"Mobile Strike","value":	14133431},
+      {"name":"Revenge of Sultans","value":	18945731},
+      {"name":"Rise of Kingdoms","value":	68858969},
+      {"name":"Shin Sangokushi","value":	235179},
+      {"name":"Star Trek Fleet Command","value":	44890629},
+      {"name":"Vikings: War of Clans","value":	13890452},
+      {"name":"War and Order","value":	46485683},
+      {"name":"War Dragons","value":	59613464},
+      {"name":"World War Rising", "value":	4183852}
+    ]
+    },
+    {
+     "name": "Battle royale game",
+     "children": [
+      {"name":"Fortnite","value":	685212146},
+      {"name":"Free Fire","value":	18923014},
+      {"name":"PUBG MOBILE","value":	138524184},
+      {"name":"Rules of Survival","value":	2151151}
+    ]
+    },
+    {
+     "name": "Business Elimination Game",
+     "children": [
+      {"name":"Fishdom: Deep Dive","value":	115373245},
+      {"name":"Gardenscapes - New Acres","value":	202046850},
+      {"name":"Home Design Makeover","value":	28644287},
+      {"name":"Homescapes","value":	262034461},
+      {"name":"Matchington Mansion","value":	111225938}
+    ]
+    },
+    {
+     "name": "Free sandbox",
+     "children": [
+      {"name":"Minecraft Pocket Edition","value":	106805306},
+      {"name":"ROBLOX","value":	414963660}
+    ]
+    },
+    {
+     "name": "Turn-Based Card RPG",
+     "children": [
+      {"name":"Dragon Ball Z Dokkan Battle","value":	148594772},
+      {"name":"Epic Seven","value":	23381864},
+      {"name":"Fate/Grand Order","value":	51214387},
+      {"name":"FINAL FANTASY BRAVE EXVIUS","value":	18203038},
+      {"name":"Junior Three Kingdoms","value":	3378914},
+      {"name":"Looney Tunes World of Mayhem","value":	1296802},
+      {"name":"MARVEL Strike Force"value":	66719965},
+      {"name":"RAID: Shadow Legends","value":	30114987},
+      {"name":"Star Wars: Galaxy of Heroes","value":	91953814},
+      {"name":"Summoners War","value":	75843340}
+    ]
+    },
+    {
+     "name": "Simulation Game",
+     "children": [
+      {"name":"Cooking Craze","value":	11882591},
+      {"name":"Cooking Fever","value":	1569561},
+      {"name":"Design Home","value":	129525908},
+      {"name":"Diner DASH Adventures","value":	4757900},
+      {"name":"Disney Magic Kingdoms","value":	1798270},
+      {"name":"Forge of Empires","value":	9579968},
+      {"name":"Hay Day","value":	71620487},
+      {"name":"Hustle Castle: Fantasy Kingdom","value":	5971587},
+      {"name":"Klondike Adventures","value":	30036836},
+      {"name":"The Walking Dead: Road to Survival","value":	20615320},
+      {"name":"Township","value":	100886472}
+    ]
+    },
+    {
+     "name": "Action Game",
+     "children": [
+      {"name":"8 Ball Pool","value":	54316643},
+      {"name":"Golf Clash","value":	165123149},
+      {"name":"Madden NFL Mobile","value":	70177493},
+      {"name":"MLB Tap Sports Baseball 2017","value":	1537114},
+      {"name":"MLB Tap Sports Baseball 2018","value":	35132850},
+      {"name":"MLB Tap Sports Baseball 2019","value":	39668561}
+    ]
+    },
+    {
+     "name": "AR+LBS",
+     "children": [
+      {"name":"Harry Potter: Wizards Unite","value":	2027135},
+      {"name":"Jurassic World Alive","value":	5197912},
+      {"name":"Pok¨¦mon GO","value":	333129761}
+    ]
+    },
+    {
+     "name": "SameGame",
+     "children": [ 
+      {"name":"Lily's Garden","value":	15630646},
+      {"name":"Toon Blast","value":	319598899}
+    ]
+    },
+    {
+     "name": "Real-Time Strategy Game",
+     "children": [ 
+      {"name":"Clash Royale","value":	240179326},
+      {"name":"DRAGON BALL LEGENDS","value":	33310016}
+    ]
+    },
+    {
+     "name": "Chess and cards",
+     "children": [ 
+      {"name":"Solitaire - Grand Harvest","value":	25627001},
+      {"name":"Solitaire TriPeaks","value":	63815646},
+      {"name":"World Series of Poker","value":	110925099},
+      {"name":"Zynga Poker","value":	28999094}
+    ]
+    },
+    {
+     "name": "Love Game",
+     "children": [
+      {"name":"Chapters-Interactive stories","value":	28888694}
+      {"name":"Choices: Stories You Play","value":	83267943},
+      {"name":"Episode","value":	85541179}
+    ]
+    },
+    {
+     "name": "Fighting Game",
+     "children": [
+      {"name":"MapleStory M","value":	1142118},
+      {"name":"Marvel Contest of Champions","value":	186860884}
+    ]
+  },   
   {
    "name": "Taiwan, China",
    "children": [
